@@ -1,0 +1,8 @@
+info:
+  app:
+    name: test-app
+    description: aplicacion de prueba
+    version: 1.0.0
+    encoding: UTF-8
+    java:
+      version: 1.17.0
